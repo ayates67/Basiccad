@@ -46,26 +46,26 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+Today I used my knowledge to create a mount in onshape. It was fairly easy because all I had to do was make a square and cut 5 holes in it.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/b9c663d0ee404e23ff9782d0/w/411e98a54b550b0af8075053/e/b12a43f9557db3e206539d32
 ### Image
-
+<img src="https://cvilleschools.onshape.com/documents/b9c663d0ee404e23ff9782d0/w/411e98a54b550b0af8075053/e/b12a43f9557db3e206539d32"
 ### Reflection
-
+This was an easy assignment. Today I remembered how to cut holes in objects. I took me some time, but after playing around with onshape for a while, I finally got it to work.
 ---
 
 
 ## Fork
 
 ### Description
-
+I created a fork to hold a wheel. It is an extruded circle with two holders. Each of the holders has a hole that hold the wheel. The back of the big cylinder had a tube sticking out that in 60mm tall.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/b596fc69a54f3fb93bc4808b/w/4485eebf738ffd9e9ce91857/e/7431d8aaf3e5887ba37574ec
 ### Image
-
+<img src="https://cvilleschools.onshape.com/documents/b596fc69a54f3fb93bc4808b/w/4485eebf738ffd9e9ce91857/e/7431d8aaf3e5887ba37574ec"
 ### Reflection
-
+This assignment was difficult but I learned how to extrude and fillet the object. I also learned how to concentric two circles.
 ---
 
 

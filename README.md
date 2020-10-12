@@ -72,37 +72,41 @@ This assignment was difficult but I learned how to extrude and fillet the object
 ## Tire
 
 ### Description
-
+This assignment was to create a wheel. The wheel had 5 holes with 1mm filets inside of it.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/edf29ccd902d1f5eae92fc8d/w/7ff58fed9f553570a871df69/e/f656a0204b621ffa1b2b2b96
 ### Image
-
+<img src="https://cvilleschools.onshape.com/documents/edf29ccd902d1f5eae92fc8d/w/7ff58fed9f553570a871df69/e/f656a0204b621ffa1b2b2b96"
 ### Reflection
-
+In this assignment I learned how to make circles extrude and then fillet so that they are round on the outside. I also learned how to make a hole in a bigger extrson and that you can extrude some parts of a part without extruding the whole thing.
 ---
 
 
 ## Wheel
 
 ### Description
-
+This assignment was to create a wheel. The wheel had 5 holes with 1mm filets inside of it.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea
 ### Image
-
+<img src="https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea"
 ### Reflection
-
+In this assignment I learned how to use the fillet feature to fillet multiple things at a time. I also mastered using the symetry feature by making an extrusion symetric.
 ---
 
 
 ## AxleCollarBearings
 
 ### Description
-
+In this assignment I made a bearing on the wheel, a big bearing, and an axle with a collar attached to in.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/fe5c96582f86694f2abbfab8/w/b575f351ec4ca1bb6ba54c8b/e/93bf8e0e6a36a3dcc70b5da8
+https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea
+https://cvilleschools.onshape.com/documents/875ffece27d195bc1b91d1da/w/d5bb4f8e0cc31d0745914bb8/e/f7be987c2e790fcc5255dedf
 ### Image
-
+<img src="https://cvilleschools.onshape.com/documents/fe5c96582f86694f2abbfab8/w/b575f351ec4ca1bb6ba54c8b/e/93bf8e0e6a36a3dcc70b5da8"
+<img src="https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea"
+<img src="https://cvilleschools.onshape.com/documents/875ffece27d195bc1b91d1da/w/d5bb4f8e0cc31d0745914bb8/e/f7be987c2e790fcc5255dedf"
 ### Reflection
-
+In this assignment I learned how to make a flat in an axle. I also learned how to create two different parts in the same document. I also learned ho to name parts in the document. This assignment really help me learn the final building feature that I need to know and I am ready to start my assembly now.
 ---

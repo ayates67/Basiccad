@@ -108,5 +108,5 @@ https://cvilleschools.onshape.com/documents/875ffece27d195bc1b91d1da/w/d5bb4f8e0
 <img src="https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea"
 <img src="https://cvilleschools.onshape.com/documents/875ffece27d195bc1b91d1da/w/d5bb4f8e0cc31d0745914bb8/e/f7be987c2e790fcc5255dedf"
 ### Reflection
-In this assignment I learned how to make a flat in an axle. I also learned how to create two different parts in the same document. I also learned ho to name parts in the document. This assignment really help me learn the final building feature that I need to know and I am ready to start my assembly now.
+In this assignment I learned how to make a flat in an axle. I also learned how to create two different parts in the same document. I also learned ho to name parts in the document. This assignment really help me learn the final building feature that I need to know and I am ready to start my assembly now. 
 ---

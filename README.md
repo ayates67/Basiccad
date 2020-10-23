@@ -110,3 +110,16 @@ https://cvilleschools.onshape.com/documents/875ffece27d195bc1b91d1da/w/d5bb4f8e0
 ### Reflection
 In this assignment I learned how to make a flat in an axle. I also learned how to create two different parts in the same document. I also learned ho to name parts in the document. This assignment really help me learn the final building feature that I need to know and I am ready to start my assembly now. 
 ---
+
+
+## SubAssembly
+
+### Description
+In this assignment I assembled the parts to the wheel. The wheel  has the tire, axle, collar, and bearings.
+### Evidence
+https://cvilleschools.onshape.com/documents/fd80bad4f533c03ff88d4445/w/8c3fb44705eaf251f75cf16f/e/27cb685d2d5486bf8d0ddcc6
+### Image
+<img src="https://github.com/ayates67/Basiccad/blob/main/Sub%20assemblyy.PNG"
+### Reflection
+I this assignment I learned how to assemble the parts. I learned the basic mates and how much easier onshape is than solidworks in my opinion. This assignment took me a little while because at first my axle was a little messed up and so was my mate between the bearing and wheel. I figure it out by percervering and going through all of the possibilities.
+---

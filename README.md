@@ -74,9 +74,9 @@ This assignment was difficult but I learned how to extrude and fillet the object
 ### Description
 This assignment was to create a wheel. The wheel had 5 holes with 1mm filets inside of it.
 ### Evidence
-https://cvilleschools.onshape.com/documents/edf29ccd902d1f5eae92fc8d/w/7ff58fed9f553570a871df69/e/f656a0204b621ffa1b2b2b96
+[The Tire in Onshape] (https://cvilleschools.onshape.com/documents/edf29ccd902d1f5eae92fc8d/w/7ff58fed9f553570a871df69/e/f656a0204b621ffa1b2b2b96)
 ### Image
-<img src="https://cvilleschools.onshape.com/documents/edf29ccd902d1f5eae92fc8d/w/7ff58fed9f553570a871df69/e/f656a0204b621ffa1b2b2b96"
+<img src="Tire.PNG">
 ### Reflection
 In this assignment I learned how to make circles extrude and then fillet so that they are round on the outside. I also learned how to make a hole in a bigger extrson and that you can extrude some parts of a part without extruding the whole thing.
 ---
@@ -87,9 +87,9 @@ In this assignment I learned how to make circles extrude and then fillet so that
 ### Description
 This assignment was to create a wheel. The wheel had 5 holes with 1mm filets inside of it.
 ### Evidence
-https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea
+[The wheel in Onshape] (https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea)
 ### Image
-<img src="https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea"
+<img src="Wheel.PNG">
 ### Reflection
 In this assignment I learned how to use the fillet feature to fillet multiple things at a time. I also mastered using the symetry feature by making an extrusion symetric.
 ---

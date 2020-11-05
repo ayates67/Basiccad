@@ -48,7 +48,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Description
 Today I used my knowledge to create a mount in onshape. It was fairly easy because all I had to do was make a square and cut 5 holes in it.
 ### Evidence
-[The Mount in Onshape] (https://cvilleschools.onshape.com/documents/b9c663d0ee404e23ff9782d0/w/411e98a54b550b0af8075053/e/b12a43f9557db3e206539d32)
+[The Mount in Onshape](https://cvilleschools.onshape.com/documents/b9c663d0ee404e23ff9782d0/w/411e98a54b550b0af8075053/e/b12a43f9557db3e206539d32)
 ### Image
 <img src="Mount.PNG">
 ### Reflection
@@ -74,7 +74,7 @@ This assignment was difficult but I learned how to extrude and fillet the object
 ### Description
 This assignment was to create a wheel. The wheel had 5 holes with 1mm filets inside of it.
 ### Evidence
-[The Tire in Onshape] (https://cvilleschools.onshape.com/documents/edf29ccd902d1f5eae92fc8d/w/7ff58fed9f553570a871df69/e/f656a0204b621ffa1b2b2b96)
+[The Tire in Onshape](https://cvilleschools.onshape.com/documents/edf29ccd902d1f5eae92fc8d/w/7ff58fed9f553570a871df69/e/f656a0204b621ffa1b2b2b96)
 ### Image
 <img src="Tire.PNG">
 ### Reflection
@@ -87,7 +87,7 @@ In this assignment I learned how to make circles extrude and then fillet so that
 ### Description
 This assignment was to create a wheel. The wheel had 5 holes with 1mm filets inside of it.
 ### Evidence
-[The wheel in Onshape] (https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea)
+[The wheel in Onshape](https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea)
 ### Image
 <img src="Wheel.PNG">
 ### Reflection

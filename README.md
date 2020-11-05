@@ -100,13 +100,13 @@ In this assignment I learned how to use the fillet feature to fillet multiple th
 ### Description
 In this assignment I made a bearing on the wheel, a big bearing, and an axle with a collar attached to in.
 ### Evidence
-https://cvilleschools.onshape.com/documents/fe5c96582f86694f2abbfab8/w/b575f351ec4ca1bb6ba54c8b/e/93bf8e0e6a36a3dcc70b5da8
-https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea
-https://cvilleschools.onshape.com/documents/875ffece27d195bc1b91d1da/w/d5bb4f8e0cc31d0745914bb8/e/f7be987c2e790fcc5255dedf
+[The Axle and Collar](https://cvilleschools.onshape.com/documents/fe5c96582f86694f2abbfab8/w/b575f351ec4ca1bb6ba54c8b/e/93bf8e0e6a36a3dcc70b5da8)
+[The bearings on the wheel](https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea)
+[The Big Bearing](https://cvilleschools.onshape.com/documents/875ffece27d195bc1b91d1da/w/d5bb4f8e0cc31d0745914bb8/e/f7be987c2e790fcc5255dedf)
 ### Image
-<img src="https://cvilleschools.onshape.com/documents/fe5c96582f86694f2abbfab8/w/b575f351ec4ca1bb6ba54c8b/e/93bf8e0e6a36a3dcc70b5da8"
-<img src="https://cvilleschools.onshape.com/documents/2a07f325b613b596a035bf1d/w/2dde90bd7596f079b342f0e4/e/93fd35d51fb99f5d110e23ea"
-<img src="https://cvilleschools.onshape.com/documents/875ffece27d195bc1b91d1da/w/d5bb4f8e0cc31d0745914bb8/e/f7be987c2e790fcc5255dedf"
+<img src="Axle and Collar.PNG">
+<img src="Wheel.PNG">
+<img src="Bearing.PNG">
 ### Reflection
 In this assignment I learned how to make a flat in an axle. I also learned how to create two different parts in the same document. I also learned ho to name parts in the document. This assignment really help me learn the final building feature that I need to know and I am ready to start my assembly now. 
 ---
@@ -117,9 +117,9 @@ In this assignment I learned how to make a flat in an axle. I also learned how t
 ### Description
 In this assignment I assembled the parts to the wheel. The wheel  has the tire, axle, collar, and bearings.
 ### Evidence
-https://cvilleschools.onshape.com/documents/fd80bad4f533c03ff88d4445/w/8c3fb44705eaf251f75cf16f/e/27cb685d2d5486bf8d0ddcc6
+[The Subassembly](https://cvilleschools.onshape.com/documents/fd80bad4f533c03ff88d4445/w/8c3fb44705eaf251f75cf16f/e/27cb685d2d5486bf8d0ddcc6)
 ### Image
-<img src="https://github.com/ayates67/Basiccad/blob/main/Sub%20assemblyy.PNG"
+<img src="Sub assemblyy.PNG">
 ### Reflection
 In this assignment I learned how to assemble the parts. I learned the basic mates and how much easier onshape is than solidworks in my opinion. This assignment took me a little while because at first my axle was a little messed up and so was my mate between the bearing and wheel. I figure it out by percervering and going through all of the possibilities.
 ---
@@ -130,9 +130,9 @@ In this assignment I learned how to assemble the parts. I learned the basic mate
 ### Description
 In this assignment I finished the caster and assembled everything. I used mostly revolute mates and a few parrelel mates. Every single part that I have made was in this assembly. 
 ### Evidence
-https://cvilleschools.onshape.com/documents/54a282b548986a7d2b44ccc7/w/c1756b15d5fe9ae3c6ec494b/e/064396ad9707a260f582e623
+[The Final Assembly](https://cvilleschools.onshape.com/documents/54a282b548986a7d2b44ccc7/w/c1756b15d5fe9ae3c6ec494b/e/064396ad9707a260f582e623)
 ### Image
-<img src="https://github.com/ayates67/Basiccad/blob/main/Final%20Assembly.PNG?raw=true"
+<img src="Final Assembly.PNG">
 ### Reflection
 In this assignment I finally finished the final assembly for the caster. This was by far the hardest assignment in my opinion. I had a messed up fork in the begining so I had to spend 3 days fixing the legs of it. Then I couldn't figure out how to put the pins in so that took me awhile. After days of hard work I got everything to work. This was a big relief to me since it had taken me so long and I had run into so many obstacles but I finally finished.
 ---

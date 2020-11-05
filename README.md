@@ -120,6 +120,7 @@ In this assignment I assembled the parts to the wheel. The wheel  has the tire, 
 [The Subassembly](https://cvilleschools.onshape.com/documents/fd80bad4f533c03ff88d4445/w/8c3fb44705eaf251f75cf16f/e/27cb685d2d5486bf8d0ddcc6)
 ### Image
 <img src="Sub assemblyy.PNG">
+
 ### Reflection
 In this assignment I learned how to assemble the parts. I learned the basic mates and how much easier onshape is than solidworks in my opinion. This assignment took me a little while because at first my axle was a little messed up and so was my mate between the bearing and wheel. I figure it out by percervering and going through all of the possibilities.
 ---
@@ -133,6 +134,7 @@ In this assignment I finished the caster and assembled everything. I used mostly
 [The Final Assembly](https://cvilleschools.onshape.com/documents/54a282b548986a7d2b44ccc7/w/c1756b15d5fe9ae3c6ec494b/e/064396ad9707a260f582e623)
 ### Image
 <img src="Final Assembly.PNG">
+
 ### Reflection
 In this assignment I finally finished the final assembly for the caster. This was by far the hardest assignment in my opinion. I had a messed up fork in the begining so I had to spend 3 days fixing the legs of it. Then I couldn't figure out how to put the pins in so that took me awhile. After days of hard work I got everything to work. This was a big relief to me since it had taken me so long and I had run into so many obstacles but I finally finished.
 ---

@@ -61,9 +61,9 @@ This was an easy assignment. Today I remembered how to cut holes in objects. I t
 ### Description
 I created a fork to hold a wheel. It is an extruded circle with two holders. Each of the holders has a hole that hold the wheel. The back of the big cylinder had a tube sticking out that in 60mm tall.
 ### Evidence
-https://cvilleschools.onshape.com/documents/b596fc69a54f3fb93bc4808b/w/4485eebf738ffd9e9ce91857/e/7431d8aaf3e5887ba37574ec
+[The Fork in Onshape](https://cvilleschools.onshape.com/documents/b596fc69a54f3fb93bc4808b/w/4485eebf738ffd9e9ce91857/e/7431d8aaf3e5887ba37574ec)
 ### Image
-<img src="https://cvilleschools.onshape.com/documents/b596fc69a54f3fb93bc4808b/w/4485eebf738ffd9e9ce91857/e/7431d8aaf3e5887ba37574ec"
+<img src="Fork.PNG">
 ### Reflection
 This assignment was difficult but I learned how to extrude and fillet the object. I also learned how to concentric two circles.
 ---
@@ -145,9 +145,10 @@ In this assignment I finally finished the final assembly for the caster. This wa
 ### Description
 In this project we built 7 parts to make an assembly in onshape. 
 ### Evidence
-https://cvilleschools.onshape.com/documents/a979897320967d215a334cb0/w/7c2fd7da52eb297a2eb2ede4/e/96c2a6d91a80e78f69375dd1
+[The collab Challange](https://cvilleschools.onshape.com/documents/a979897320967d215a334cb0/w/7c2fd7da52eb297a2eb2ede4/e/96c2a6d91a80e78f69375dd1)
 ### Image
-<img src="https://cvilleschools.onshape.com/documents/a979897320967d215a334cb0/w/7c2fd7da52eb297a2eb2ede4/e/96c2a6d91a80e78f69375dd1"
+<img src="Collab.PNG">
+
 ### Reflection
 In this assignment I worked through challenges and worked together with my partners to build 7 parts that fit together. This was a big acomplishment. We ran into some challenges like figuiring out the lengths and widths of the parts but ultimatly got the job done.
 ---
